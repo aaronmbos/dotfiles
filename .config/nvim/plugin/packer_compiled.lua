@@ -99,6 +99,11 @@ _G.packer_plugins = {
     path = "/Users/aaronbos/.local/share/nvim/site/pack/packer/start/cmp-vsnip",
     url = "https://github.com/hrsh7th/cmp-vsnip"
   },
+  ["gruvbox.nvim"] = {
+    loaded = true,
+    path = "/Users/aaronbos/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
+    url = "https://github.com/ellisonleao/gruvbox.nvim"
+  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/Users/aaronbos/.local/share/nvim/site/pack/packer/start/lualine.nvim",
@@ -113,6 +118,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/aaronbos/.local/share/nvim/site/pack/packer/start/nvim-dap",
     url = "https://github.com/mfussenegger/nvim-dap"
+  },
+  ["nvim-dap-ui"] = {
+    loaded = true,
+    path = "/Users/aaronbos/.local/share/nvim/site/pack/packer/start/nvim-dap-ui",
+    url = "https://github.com/rcarriga/nvim-dap-ui"
   },
   ["nvim-lspconfig"] = {
     loaded = true,
@@ -138,11 +148,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/aaronbos/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
-  },
-  ["substrata.nvim"] = {
-    loaded = true,
-    path = "/Users/aaronbos/.local/share/nvim/site/pack/packer/start/substrata.nvim",
-    url = "https://github.com/kvrohit/substrata.nvim"
   },
   ["telescope.nvim"] = {
     loaded = true,

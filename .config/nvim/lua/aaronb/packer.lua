@@ -7,8 +7,7 @@ return require('packer').startup(function(use)
   -- Packer can manage itself
   use 'wbthomason/packer.nvim'
   
-  use 'kvrohit/substrata.nvim'
-  
+  use { "ellisonleao/gruvbox.nvim" } 
   use {
     'nvim-telescope/telescope.nvim', tag = '0.1.0',
     requires = { {'nvim-lua/plenary.nvim'} }
@@ -53,6 +52,7 @@ return require('packer').startup(function(use)
   use 'hrsh7th/vim-vsnip'
 
   use 'mfussenegger/nvim-dap'
+  use { "rcarriga/nvim-dap-ui", requires = {"mfussenegger/nvim-dap"} }
 
   use {
     'prettier/vim-prettier',

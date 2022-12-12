@@ -1,7 +1,6 @@
 local Remap = require("aaronb.keymap")
 local nnoremap = Remap.nnoremap
 
-
 nnoremap("<leader>ff", function() 
   require('telescope.builtin').find_files()
 end)
