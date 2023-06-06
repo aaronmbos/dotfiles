@@ -1,0 +1,27 @@
+{
+  "name": "aaronmbos",
+  "displayName": "aaronmbos",
+  "description": "A theme to suit my needs.",
+  "repository": "https://github.com/aaronmbos/themes",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "aaronmbos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aaronmbos-color-theme.json"
+      },
+      {
+        "label": "aaronmbos-light",
+        "uiTheme": "vs",
+        "path": "./themes/aaronmbos-light-color-theme.json"
+      }
+    ]
+  }
+}
