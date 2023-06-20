@@ -102,7 +102,7 @@ source $ZSH/oh-my-zsh.sh
 alias ssh="kitty +kitten ssh"
 alias ssh-dev="kitty +kitten ssh -L 8080:localhost:8080 abos@192.168.1.31"
 alias g-drive="cd ~/Google\ Drive/My\ Drive/"
-alias tt="ruby ~/code/themes/kitty/theme_toggle.rb"
+alias tt="ruby ~/.config/kitty/themes/theme_toggle.rb"
 
 # eval "$(tt)"
 
