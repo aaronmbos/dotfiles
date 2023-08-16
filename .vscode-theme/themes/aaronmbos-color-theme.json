@@ -4,7 +4,25 @@
     "editor.background": "#22272E",
     "editor.foreground": "#ADBAC7",
     "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBarTitle.foreground": "#bbbbbb",
+    "titleBar.inactiveBackground": "#22272E",
+    "activityBar.background": "#22272E",
+    "activityBar.border": "#6d7d93",
+    "sideBar.border": "#6d7d93",
+    "sideBar.background": "#22272E",
+    "sideBarSectionHeader.background": "#22272E",
+    "quickInput.background": "#2A3139",
+    "input.background": "#2A3139",
+    "dropdown.background": "#2A3139",
+    "list.hoverBackground": "#2A3139",
+    "list.inactiveSelectionBackground": "#2A3139",
+    "list.activeSelectionBackground": "#2A3139",
+    "list.focusBackground": "#2A3139",
+    "list.dropBackground": "#2A3139",
+    "list.inactiveFocusBackground": "#2A3139",
+    "editorGroupHeader.tabsBackground": "#22272E",
+    "tab.inactiveBackground": "#22272E",
+    "tab.activeBorder": "#6d7d93"
   },
   "tokenColors": [
     {
