@@ -11,7 +11,7 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "github.copilot.enable": {
-    "*": true,
+    "*": false,
     "plaintext": true,
     "markdown": true,
     "scminput": false,
@@ -64,5 +64,9 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
     "editor.tabSize": 2
+  },
+  "editor.fontSize": 11,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }

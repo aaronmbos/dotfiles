@@ -2,8 +2,8 @@
 
 current_hour = Time.now.hour
 
-light_theme = 'aaronmbos-light'
-dark_theme = 'aaronmbos'
+light_theme = 'GitHub Light'
+dark_theme = 'GitHub Dark Dimmed'
 dark_hour_night = 16
 dark_hour_morning = 8
 

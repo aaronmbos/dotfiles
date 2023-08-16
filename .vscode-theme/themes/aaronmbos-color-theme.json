@@ -1,8 +1,8 @@
 {
   "name": "aaronmbos",
   "colors": {
-    "editor.background": "#0d1117",
-    "editor.foreground": "#c9d1d9",
+    "editor.background": "#22272E",
+    "editor.foreground": "#ADBAC7",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
   },
@@ -12,7 +12,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#a0a8b0"
+        "foreground": "#768390"
       }
     },
     {
@@ -63,7 +63,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#d2a8ff"
+        "foreground": "#DCBDFB"
       }
     },
     {
@@ -86,14 +86,14 @@
         "constant.escape"
       ],
       "settings": {
-        "foreground": "#ff7b72"
+        "foreground": "#F47067"
       }
     },
     {
       "name": "String",
       "scope": ["string", "string.regexp"],
       "settings": {
-        "foreground": "#a5d6ff"
+        "foreground": "#96D0FF"
       }
     },
     {
@@ -106,7 +106,7 @@
         "support.type.primitive"
       ],
       "settings": {
-        "foreground": "#ffa657"
+        "foreground": "#F69D50"
       }
     },
     {
@@ -170,7 +170,7 @@
       "name": "Tags",
       "scope": ["entity.name.tag"],
       "settings": {
-        "foreground": "#7ee787"
+        "foreground": "#8DDB8C"
       }
     },
     {
