@@ -100,11 +100,10 @@
         "constant.numeric",
         "constant.language",
         "support.constant",
-        "constant.character",
-        "constant.escape"
+        "constant.character"
       ],
       "settings": {
-        "foreground": "#F47067"
+        "foreground": "#FBBDBD"
       }
     },
     {
@@ -123,9 +122,7 @@
         "support.class.component",
         "support.type.primitive"
       ],
-      "settings": {
-        "foreground": "#F69D50"
-      }
+      "settings": {}
     },
     {
       "name": "Entity Types",
@@ -187,9 +184,7 @@
     {
       "name": "Tags",
       "scope": ["entity.name.tag"],
-      "settings": {
-        "foreground": "#8DDB8C"
-      }
+      "settings": {}
     },
     {
       "name": "CSS Classes",
@@ -204,27 +199,21 @@
     {
       "name": "Inserted",
       "scope": ["markup.inserted"],
-      "settings": {
-        "foreground": "#C3E88D"
-      }
+      "settings": {}
     },
     {
       "name": "Deleted",
       "scope": ["markup.deleted"],
-      "settings": {
-        "foreground": "#FF5370"
-      }
+      "settings": {}
     },
     {
       "name": "Changed",
       "scope": ["markup.changed"],
-      "settings": {
-        "foreground": "#C792EA"
-      }
+      "settings": {}
     },
     {
       "name": "Escape Characters",
-      "scope": ["constant.character.escape"],
+      "scope": ["constant.character.escape", "constant.escape"],
       "settings": {
         "foreground": "#89DDFF"
       }
