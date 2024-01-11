@@ -96,6 +96,13 @@
       }
     },
     {
+      "name": "Keywords",
+      "scope": "keyword.control",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Class, Support",
       "scope": [
         "entity.name.type.class",
